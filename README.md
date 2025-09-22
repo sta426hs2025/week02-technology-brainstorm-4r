@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aKWLU3-A)
+Image-based spatial transcriptomics combines high-resolution microscopy with molecular profiling to map gene expression directly within intact tissue sections. Messenger RNAs (mRNAs) are captured in situ using fluorescent probes or barcoded oligonucleotides that bind to specific transcripts. Imaging technologies then record the spatial distribution of these fluorescent signals at subcellular resolution. Computational pipelines process the images, decode the barcodes, and reconstruct transcript maps, allowing researchers to see where each gene is expressed within the tissue architecture. This enables the study of cell–cell interactions, tissue organization, and disease mechanisms in their native context.
+
+GitHub usernames: dwiedario, evbkel, d-franzen, AnicaBischof
+
+We used Chat-GPT, prompting ' write a short summary of "how your technology works" - the technology is "image based spatial transcriptomics" '
